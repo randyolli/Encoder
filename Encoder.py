@@ -1,3 +1,5 @@
+# Git integrated
+
 import time
 import RPi.GPIO as GPIO
 
